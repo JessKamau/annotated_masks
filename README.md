@@ -1,6 +1,7 @@
 # annotated_masks
 
-Upload the images to cvat task
-Label:  rust
+Original images
 
-Then upload COCO annotation file
+COCO format annotation
+
+Segmentation mask annotation
